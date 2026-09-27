@@ -1,0 +1,11 @@
+# AWS credentials and local files
+.aws/
+*.pem
+*.key
+kubeconfig
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
